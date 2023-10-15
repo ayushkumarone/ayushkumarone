@@ -19,7 +19,7 @@
 # 📊 GitHub Stats:
 <p  align="center">
 
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ayushkumarone&theme=react&hide_border=false&include_all_commits=true&count_private=true)"/><br/>
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ayushkumarone&theme=react&hide_border=false&include_all_commits=true&count_private=true)"/><br/>
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushkumarone&theme=react&hide_border=false)" /><br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkumarone&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)" />
 
