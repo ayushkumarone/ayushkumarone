@@ -14,11 +14,16 @@
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
+</p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ayushkumarone&theme=react&hide_border=false&include_all_commits=true&count_private=true)
+<p  align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=ayushkumarone&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ayushkumarone&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkumarone&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</p>
 
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushkumarone&label=Profile%20views&color=0e75b6&style=flat" alt="prathmesh" /> </p>
