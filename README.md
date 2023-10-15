@@ -21,6 +21,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkumarone&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=PrateekKrishna&label=Profile%20views&color=0e75b6&style=flat" alt="prathmesh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushkumarone&label=Profile%20views&color=0e75b6&style=flat" alt="prathmesh" /> </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
